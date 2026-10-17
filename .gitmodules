@@ -1,0 +1,3 @@
+[submodule "external/VTubasic-Core"]
+	path = external/VTubasic-Core
+	url = https://github.com/LucientZ/VTubasic-Core
